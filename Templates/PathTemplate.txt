@@ -1,0 +1,1 @@
+﻿<path d="${D}" stroke="${STROKE}" fill="${FILL}" stroke-width="${STROKE-WIDTH}"/>

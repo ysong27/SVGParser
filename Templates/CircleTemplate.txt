@@ -1,0 +1,1 @@
+﻿<circle cx="${CX}" cy="${CY}" r="${R}" stroke="${STROKE}" fill="${FILL}" stroke-width="${STROKE-WIDTH}"/>

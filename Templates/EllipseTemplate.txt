@@ -1,0 +1,1 @@
+﻿<ellipse cx="${CX}" cy="${CY}" rx="${RX}" ry="${RY}" stroke="${STROKE}" fill="${FILL}" stroke-width="${STROKE-WIDTH}"/>

@@ -1,0 +1,1 @@
+﻿<polygon points="${POINTS}" stroke="${STROKE}" fill="${FILL}" stroke-width="${STROKE-WIDTH}"/>

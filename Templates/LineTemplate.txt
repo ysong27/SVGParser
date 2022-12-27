@@ -1,0 +1,1 @@
+﻿<line x1="${X1}" x2="${X2}" y1="${Y1}" y2="${Y2}" stroke="${STROKE}" stroke-width="${STROKE-WIDTH}"/>

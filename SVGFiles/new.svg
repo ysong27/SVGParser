@@ -1,0 +1,14 @@
+<svg viewBox="" xmlns="http://www.w3.org/2000/svg">
+	<rect x="20" y="20" rx="0" ry="0" width="60" height="60" stroke="black" fill="transparent" stroke-width="5"/>
+<rect x="120" y="20" rx="20" ry="20" width="60" height="60" stroke="black" fill="transparent" stroke-width="5"/>
+<circle cx="50" cy="150" r="40" stroke="red" fill="transparent" stroke-width="5"/>
+<ellipse cx="150" cy="150" rx="40" ry="10" stroke="red" fill="transparent" stroke-width="5"/>
+<line x1="20" x2="100" y1="220" y2="300" stroke="orange" stroke-width="5"/>
+<polyline points="120,220 130,240 140,230 150,260 160,250 170,280 180,270 190,300 200,290" stroke="orange" fill="transparent" stroke-width="5"/>
+<polygon points="100,320 110,360 140,360 120,380 130,410 100,390 70,410 80,380 60,360 90,360" stroke="green" fill="transparent" stroke-width="5"/>
+<path d="M 40,460
+Q 80,410 100,460
+T 180,460
+" stroke="blue" fill="none" stroke-width="5"/>
+
+</svg>

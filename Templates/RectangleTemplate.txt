@@ -1,0 +1,1 @@
+﻿<rect x="${X}" y="${Y}" rx="${RX}" ry="${RY}" width="${WIDTH}" height="${HEIGHT}" stroke="${STROKE}" fill="${FILL}" stroke-width="${STROKE-WIDTH}"/>
