@@ -1,4 +1,4 @@
-# SVGParser
+# SVG (Scalable Vector Graphics) Parser
 C# console app that can parse and modify SVG image attributes
 
 # Links
